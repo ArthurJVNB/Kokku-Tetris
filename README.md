@@ -1,2 +1,2 @@
 # Tetris 3D
- Tetris made for a 5 day challeng.
+ Tetris made for a 5 day challenge.
