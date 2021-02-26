@@ -1,2 +1,2 @@
-# Kokku Tetris
- Tetris made for Kokku challenge.
+# Tetris 3D
+ Tetris made for a 5 day challeng.
